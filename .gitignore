@@ -1,0 +1,12 @@
+# Ignore environment variables
+.env
+secrets.env
+*.env
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.venv/
